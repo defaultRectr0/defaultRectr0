@@ -33,6 +33,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#48](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree/issues/48) in [OtacilioN/awesome-hacktoberfest-plant-a-tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree)
+2. 💪 Opened PR [#259](https://github.com/LionSec/katoolin/pull/259) in [LionSec/katoolin](https://github.com/LionSec/katoolin)
+3. 🗣 Commented on [#251](https://github.com/LionSec/katoolin/issues/251) in [LionSec/katoolin](https://github.com/LionSec/katoolin)
+4. 🗣 Commented on [#243](https://github.com/LionSec/katoolin/issues/243) in [LionSec/katoolin](https://github.com/LionSec/katoolin)
+5. 🗣 Commented on [#251](https://github.com/LionSec/katoolin/issues/251) in [LionSec/katoolin](https://github.com/LionSec/katoolin)
+<!--END_SECTION:activity-->
 
 </details>
 
