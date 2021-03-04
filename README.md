@@ -10,7 +10,37 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects 
 
 
-### Connect with me:
+<br />
+
+<!--- ## Current Goals
+
+- Cyber Security
+  - Redteam 
+    - Web
+    - Software
+    - CTFs
+    - Reverse Engineering
+  - Blueteam
+    - Incident Response 
+- Software development
+  - Windows
+  - linux
+- Android development
+  - Hybrid
+    - Flutter
+  - Native
+    - Android
+    - IOS
+- Full Stack Development
+  - HTML
+  - CSS
+  - JS
+  - Backend --->
+  
+  
+<br />
+
+## Connect with me:
 
 [<img align="left" alt="defaultRectr0 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="defaultRectr0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
