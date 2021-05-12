@@ -2,7 +2,7 @@
 <h3 align="center">I'm a student,developer and Hacker!!</h3>
 
 [![linkedIn](https://img.shields.io/badge/LindedIn-Follow-blue)](https://www.linkedin.com/in/jithnjosesec)
-[![Twitter Follow](https://img.shields.io/twitter/follow/defaultRectr0?color=%231DA1F2&logo=Twitter&style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FdefaultRectr0&screen_name=defaultrectro)
+[![Twitter Follow](https://img.shields.io/twitter/follow/defaultRectr0?color=%231DA1F2&logo=Twitter&style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FdefaultRectr0&screen_name=defaultretro)
 
 ## I'm a Student, Developer and Hacker!!
 
